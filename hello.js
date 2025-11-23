@@ -5,3 +5,8 @@
 
 return 5
  }
+
+
+ const d =()=>{
+    alert("dddd")
+ }
